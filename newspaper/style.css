@@ -29,20 +29,19 @@ ul {
     color: white;
 }
 
-li b {
+.navigation li a {
     float: left;
     text-decoration: none;
 }
 
-b {
+.navigation a {
     display: block;
     padding: 8px;
     background-color: black;
 }
 
-li b:hover {
+.navigation li a:hover {
     background-color: darkturquoise;
-
 }
 img{
     width: 100%;
@@ -55,7 +54,6 @@ img{
     height:590px;
     float: left;
 }
-
 
 
 .intrinsic-container iframe {
